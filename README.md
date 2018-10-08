@@ -1,2 +1,3 @@
-# bcheng-portfolio
+# Beverly Cheng's portfolio site
+
 bcheng portfolio
